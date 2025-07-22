@@ -1,6 +1,6 @@
 # TileSeeker 🍼
 
-A heartfelt OCR tool for finding your child's name on the St. Joseph's Hospital baby name tile wall.
+OCR tool for finding your child's name on the St. Joseph's Hospital baby name tile wall.
 
 ## About
 
